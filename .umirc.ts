@@ -5,6 +5,7 @@ export default defineConfig({
   chainWebpack(memo /* , { type, webpack, env, createCSSRule } */) {
     configCss(memo);
   },
+  mfsu:{},
   webpack5:{},
   nodeModulesTransform: {
     type: 'none',

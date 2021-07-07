@@ -1,3 +1,4 @@
+import "../tailwindcss.less"
 import styles from './index.module.less';
 import classNames from 'classnames';
 
